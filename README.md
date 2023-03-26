@@ -33,12 +33,20 @@ If any of the conditions are not met, an error message is displayed, explaining 
 The application also includes functionality to display different images based on the student's name and roll number.
 
 
+Screenshots 
+
+![alt text](C:\Users\MOHAMMAD ANZIL\Desktop\gg\1.jpeg "S1e")
+
+
 
 Contributing
 Contributions to this application are welcome. Please submit a pull request or raise an issue if you encounter any problems.
 
 License
 This application is licensed under the MIT license. Please see the LICENSE file for more information.
+
+
+
 
 
 
