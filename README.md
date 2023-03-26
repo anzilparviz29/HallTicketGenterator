@@ -35,8 +35,7 @@ The application also includes functionality to display different images based on
 
 Screenshots 
 
-![alt text](https://drive.google.com/file/d/1k8dnzyNl_xDgrquTeEwuvwf2JtQ-aci-/view?usp=share_link)
-
+https://drive.google.com/drive/folders/1yuk4-N73dnBXdIc8R7gSdUGPsYcF3Mlq?usp=share_link
 
 
 
