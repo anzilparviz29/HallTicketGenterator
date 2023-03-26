@@ -35,7 +35,10 @@ The application also includes functionality to display different images based on
 
 Screenshots 
 
-![alt text](C:\Users\MOHAMMAD ANZIL\Desktop\gg\1.jpeg "S1e")
+![alt text](https://drive.google.com/file/d/1k8dnzyNl_xDgrquTeEwuvwf2JtQ-aci-/view?usp=share_link) "Screenshot Title")
+
+
+
 
 
 
